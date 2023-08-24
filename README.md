@@ -1,1 +1,1 @@
-# nomura_challenge
+# nomura_quant_challenge
